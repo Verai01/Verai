@@ -1,0 +1,18 @@
+# Python byte-compiled files 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+# Test coverage 
+.coverage 
+htmlcov/ 
+# Virtual Environment 
+venv/ 
+env/ 
+ENV/ 
+# Logs 
+*.log 
+# IDE settings 
+.vscode/ 
+.idea/ 
+*.swp 
+*.swo 
